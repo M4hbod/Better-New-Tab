@@ -21,8 +21,9 @@ Into This
     <br>
     <text style="font-size: 16px;">Download and install extention based on your browser</text>
     <br>
-    <img src="https://user-images.githubusercontent.com/74229780/211720609-6ed494f5-cabe-412a-9a8a-c1be9be58c5c.png" width="28px" alt="Firefox" href="https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/">&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74229780/211722577-be8f1689-1883-4ab2-be85-7d938f34997f.png" width="28px" alt="Google Chrome" href="https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna">
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/" target="Firefox"><img src="https://user-images.githubusercontent.com/74229780/211720609-6ed494f5-cabe-412a-9a8a-c1be9be58c5c.png" alt="Buy Me A Coffee" width="28px"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna" target="Google Chrome"><img src="https://user-images.githubusercontent.com/74229780/211722577-be8f1689-1883-4ab2-be85-7d938f34997f.png" alt="Buy Me A Coffee" width="28px"></a>
+
 </p>
 
 ## 2. Set New Tab Override
