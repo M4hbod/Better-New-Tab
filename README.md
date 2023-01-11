@@ -1,4 +1,4 @@
-# Preview
+# [Online Preview](https://m4hbod.me/Better-New-Tab/)
 <h1>Turn this
 <p align="center">
     <img src="./documentation_images/new-tab.png">
