@@ -28,7 +28,7 @@ Into This
 
 ## 2. Set New Tab Override
 <details>
-<summary><b>Chrome</b></summary><br>
+<summary>Chrome</summary><br>
 
 1. Open the extensions by typing "chrome://extensions/" in the address bar.
 2. Find the "New Tab Redirect" extension and click the "Details" button.
@@ -39,7 +39,7 @@ Into This
 </details>
 
 <details>
-  <summary><b>FireFox</b></summary>
+  <summary>FireFox</summary>
 <br>
 
 1. Open the extensions by typing "about:addons" in the address bar.
@@ -52,7 +52,7 @@ Into This
 ## 3. Set focus to built-in search bar [optional]
 ### First, you need to set up Nginx based on [this](https://github.com/jimschubert/NewTab-Redirect/wiki#page-focus-on-file-redirects) wiki. Then you gotta do the following:
 <details>
-<summary><b>Chrome</b></summary><br>
+<summary>Chrome</summary><br>
 
 1. Go to the "Extension Options" page as you did before.
 2. Go to the "URL" tab.
@@ -61,7 +61,7 @@ Into This
 </details>
 
 <details>
-  <summary><b>FireFox</b></summary>
+  <summary>FireFox</summary>
 <br>
 
 1. Go to the "New Tab Override" settings as you did before.
