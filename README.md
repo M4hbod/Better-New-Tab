@@ -1,13 +1,13 @@
 # Preview
 <h1>Turn this
-<p align="center"><figure>
+<p align="center">
     <img src="./documentation_images/new-tab.png">
-</figure></p>
+</p>
 
 Into This
-<p><figure>
+<p>
     <img src="./documentation_images/better-new-tab.png">
-</figure></p></h1>
+</p></h1>
 
 # Features
 - Search bar
