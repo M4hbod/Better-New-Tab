@@ -1,10 +1,13 @@
 # Preview
+<h1>Turn this
 <p align="center">
-    <text style="font-size: 30px; font-weight: bold;">Turn This</text>
     <img src="./documentation_images/new-tab.png">
-    <text style="font-size: 30px; font-weight: bold;">Into This</text>
-    <img src="./documentation_images/better-new-tab.png">
 </p>
+
+Into This
+<p>
+    <img src="./documentation_images/better-new-tab.png">
+</p></h1>
 
 # Features
 - Search bar
