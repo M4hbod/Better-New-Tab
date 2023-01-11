@@ -40,13 +40,13 @@
 
 1. Open the extensions by typing "about:addons" in the address bar.
 2. Go to the "Extensions" tab.
-3. Find the "New Tab Override" extension, click the three-dot button and select options.
+3. Find the "New Tab Override" extension, click the three-dot button, and select options.
 4. Set "Option" to "local file".
 5. Click "Browse" and select the index file you unzipped earlier.
 </details>
 
 ## 3. Set focus to built-in search bar [optional]
-### First, you need to set up Nginx based on [this](https://github.com/jimschubert/NewTab-Redirect/wiki#page-focus-on-file-redirects) wiki. Then you need to do the following:
+### First, you need to set up Nginx based on [this](https://github.com/jimschubert/NewTab-Redirect/wiki#page-focus-on-file-redirects) wiki. Then you gotta do the following:
 <details>
 <summary><b>Chrome</b></summary><br>
 
@@ -60,8 +60,11 @@
   <summary><b>FireFox</b></summary>
 <br>
 
-1. Go to "New Tab Override" settings as you did before.
+1. Go to the "New Tab Override" settings as you did before.
 2. Set "Option" to "custom URL".
 3. Paste "http://localhost" into the "URL" field.
 4. Check the "Set focus to the web page instead of the address bar" checkbox. 
-</details>
+</details><br>
+
+# Config
+### You can add a new ```<ul>``` tag just like the examples and add your URLs using ```<li>``` tag.
