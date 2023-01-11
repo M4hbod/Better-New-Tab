@@ -68,3 +68,4 @@
 
 # Config
 ### You can add a new ```<ul>``` tag just like the examples and add your URLs using ```<li>``` tag.
+### If you want to change column count, you can change the ```--column-count``` variable in the ```:root``` selector.
