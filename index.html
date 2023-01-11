@@ -16,6 +16,8 @@
       --third-child-color: #547741;
       --fourth-child-color: #5F88D3;
       --fifth-child-color: #E1844F;
+
+      --column-count: 3;
     }
 
     html {
@@ -82,7 +84,7 @@
     nav {
       column-gap: 2em;
       display: grid;
-      grid-template-columns: auto auto auto auto;
+      grid-template-columns: repeat(var(--column-count), auto);
       padding: 1em 0;
     }
 
