@@ -1,4 +1,4 @@
-# [Online Preview](https://m4hbod.me/Better-New-Tab/)
+# [Online Preview](https://mahbod.dev/Better-New-Tab/)
 <h1>Turn this
 <p align="center">
     <img src="./documentation_images/new-tab.png">
@@ -15,7 +15,7 @@ Into This
 
 # Installation
 ## 1. Download
-### Download the index file from this repository and save it to your computer. You can do this by clicking the green "Code" button and then clicking "Download ZIP". Once you have downloaded the file, unzip it and move the index file to the folder where you want to store it.
+Download the index file from this repository and save it to your computer. You can do this by clicking the green "Code" button and then clicking "Download ZIP". Once you have downloaded the file, unzip it and move the index file to the folder where you want to store it.
 
 <p align="center">
     <br>
@@ -50,7 +50,7 @@ Into This
 </details>
 
 ## 3. Set focus to built-in search bar [optional]
-### First, you need to set up Nginx based on [this](https://github.com/jimschubert/NewTab-Redirect/wiki#page-focus-on-file-redirects) wiki. Then you gotta do the following:
+First, you need to set up Nginx based on [this](https://github.com/jimschubert/NewTab-Redirect/wiki#page-focus-on-file-redirects) wiki. Then you have to do the following:
 <details>
 <summary>Chrome</summary><br>
 
@@ -71,5 +71,5 @@ Into This
 </details><br>
 
 # Config
-### You can add a new ```<ul>``` tag just like the examples and add your URLs using ```<li>``` tag.
-### If you want to change column count, you can change the ```--column-count``` variable in the ```:root``` selector.
+You can add a new ```<ul>``` tag just like the examples and add your URLs using ```<li>``` tag.
+If you want to change column count, you can change the ```--column-count``` variable in the ```:root``` selector.
